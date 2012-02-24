@@ -1,4 +1,5 @@
 package tuesday;
+
 import java.util.Random;
 
 public class MathTests {

@@ -17,7 +17,7 @@ public class Doctor extends Employee{
 		doctor.work();
 		doctor.practiceMedicine();
 		
-		Person person = (Person)doctor;
+		Person person = doctor;
 		person.talk();
 	}
 }
